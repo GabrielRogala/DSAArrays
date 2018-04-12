@@ -10,10 +10,10 @@ public class RDFSA implements DSATask {
 
         int[] tab = new int[]{1,1,1,2,2,3,4,6,7,8,8};
 
-        System.out.println(solve(tab));
+        System.out.println(solution(tab));
     }
 
-    private int solve(int[] tab) {
+    private int solution(int[] tab) {
 
         if(tab.length == 0){
             return 0;

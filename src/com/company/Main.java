@@ -12,6 +12,7 @@ public class Main {
 
         tasks.add(new TS());
         tasks.add(new RDFSA());
+        tasks.add(new RE());
         //add new task
 
         for(DSATask t : tasks) {
