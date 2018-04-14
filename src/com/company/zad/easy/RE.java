@@ -1,4 +1,4 @@
-package com.company.zad;
+package com.company.zad.easy;
 
 import com.company.DSATask;
 
