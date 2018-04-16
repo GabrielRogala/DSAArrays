@@ -16,6 +16,8 @@ public class Main {
         tasks.add(new SIP());
         tasks.add(new MS());
         tasks.add(new PO());
+        tasks.add(new MSA());
+        tasks.add(new PT());
         //add new task
 
         for(DSATask t : tasks) {
