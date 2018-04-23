@@ -18,6 +18,7 @@ public class Main {
         tasks.add(new PO());
         tasks.add(new MSA());
         tasks.add(new PT());
+        tasks.add(new BTTBAS());
         //add new task
 
         for(DSATask t : tasks) {
